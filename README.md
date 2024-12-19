@@ -32,10 +32,10 @@ Depending on your project type:
    ```
 
 #### **For Python Projects**
-1. Check if the project includes a Python script (e.g., `vscode.py`).
+1. Check if the project includes a Python script (e.g., `Code_serverfvscode.py`).
 2. Run the script:
    ```bash
-   python vscode.py
+   python Code_serverfvscode.py
    ```
 
 ---
