@@ -7,7 +7,7 @@ To run your GitHub project from Termux, follow these steps:
 ### **1. Clone the Repository**
 1. Open Termux and run the following command to clone your project:
    ```bash
-   git clone https://github.com/wwwstawberrycom/Vscode-project-.git
+   git clone https://github.com/wwwstawberrycom/Code-server-in-vscode-/tree/main
    ```
 
 2. Navigate to the cloned directory:
