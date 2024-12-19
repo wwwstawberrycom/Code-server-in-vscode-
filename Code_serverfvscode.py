@@ -7,7 +7,7 @@ PORT = 8080
 class MyHandler(http.server.SimpleHTTPRequestHandler):
     def do_GET(self):
         if self.path == '/':
-            self.path = '.html'  # Serve the index.html file on the roo>
+            self.path = 'Code_server_in_vscode.html'  # Serve the index.html file on the roo>
         return super().do_GET()
 
 with socketserver.TCPServer(("", PORT), MyHandler) as httpd:
